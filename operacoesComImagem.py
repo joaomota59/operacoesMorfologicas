@@ -6,7 +6,6 @@ from skimage.util import invert
 import mahotas as mh 
 import numpy as np
 import matplotlib.pyplot as plt
-from pylab import imshow,show
 
 def imgOriginal(img):#desenha a imagem original na tela
     try:
